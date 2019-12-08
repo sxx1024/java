@@ -53,3 +53,4 @@ int[] arr = new int[3]{1,2,3};
 + jvm将数组的内存地址赋值给**引用类型**arr变量
 
 
+test git
